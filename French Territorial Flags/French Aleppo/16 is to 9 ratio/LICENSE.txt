@@ -19,7 +19,7 @@ Year:    2026
 DESCRIPTION OF WORK:
 ---------------------
 Flag of the French Aleppo State
-Recreated and modified at 1920x1080 resolution using:
+modified at 1920x1080 resolution using:
   - Flag of the State of Aleppo (PD License, From Wikimedia)
   - Paint.NET (MIT License)
 
