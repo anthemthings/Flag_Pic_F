@@ -1,0 +1,57 @@
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+=====================================================
+
+The person who associated a work with this deed has dedicated the work to the
+public domain by waiving all of his or her rights to the work worldwide under
+copyright law, including all related and neighboring rights, to the extent
+allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial
+purposes, all without asking permission. But it is appreciated, professional,
+and more educational if you give attribution. :)
+
+WORK DEDICATED TO PUBLIC DOMAIN:
+---------------------------------
+File:    French Damascus State (3 is to 2 ratio).png 
+Creator: anthemthings 
+Year:    2026
+
+DESCRIPTION OF WORK:
+---------------------
+Flag of the French Damascus State (3 is to 2 ratio)
+Recreated and modified using:
+  - Flag of the State of Aleppo (Public Domain)
+  - Flag of Flag of the State of Damascus (Public Domain)
+  - Paint.NET (MIT License)
+
+EDITION:
+--------
+1. Firstly, I made French canton by the State of Aleppo Flag, 
+   made transparent everything outside of canton. (1st Layer).
+2. Secondly, I removed State of Damascus flag's French ensign. 
+   Then I copied that part.
+3. Thirdly, I used 2nd layer alongside with 1st layer and pasted 
+   that on that 2nd layer.
+4. Finally, I have made 1st layer as front and 2nd layer as back.
+
+
+EDUCATIONAL PURPOSE DISCLAIMER:
+--------------------------------
+This work is created and shared for historical, educational, and
+documentary purposes only.
+ 
+The creator of this file:
+  - Does NOT endorse, glorify, or promote French occupation
+  - Does NOT endorse any political ideology represented by this flag
+  - Created this file purely for historical documentation and education
+ 
+The creator is NOT responsible for any misuse of this file by others.
+
+NOTES:
+------
+This work is based entirely on Public Domain and openly licensed source
+materials. The creator waives all copyright and related rights to this
+work under CC0 1.0.
+
+For more information, see:
+https://creativecommons.org/publicdomain/zero/1.0/
