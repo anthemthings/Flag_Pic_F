@@ -18,7 +18,7 @@ Year:    2026
 
 DESCRIPTION OF WORK:
 ---------------------
-Flag of the French Morocco recreated using:
+Flag of the French Morocco (3 is to 2 ratio) recreated using:
   - Flag of the Morocco (PD License, Wikimedia Commons)
   - French Ensign (3 is to 2 ratio, third variant).pdn
   ( https://github.com/anthemthings/Constr_Flag/blob/main/ENSIGNS/French%20Ensign/3%20is%20to%202%20ratio/French%20Ensign%20(3%20is%20to%202%20ratio%2C%20third%20variant).pdn )
