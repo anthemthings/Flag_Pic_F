@@ -18,7 +18,7 @@ Year:    2026
 
 DESCRIPTION OF WORK:
 ---------------------
-This file is a derivative of the creator's own corrected 3:2 version
+This file is a derivative of the creator's own version
 (Luang Phrabang (3 is to 2 ratio).png).
 
 DERIVATIVE CHAIN:
@@ -31,11 +31,11 @@ DERIVATIVE CHAIN:
    License: CC0 (Public Domain)
    Changes: Removed French canton from Flag of Laos (1893-1952)
 
-4. THIS FILE — French Laos (3 is to 2 ratio).png
+3. THIS FILE — French Laos (3 is to 2 ratio).png
    Creator: anthemthings
    License: CC0 (Public Domain)
-   Changes: Used this French canton "French Ensign (3 is to 2 ratio, second variant).pdn" 
-   https://github.com/anthemthings/Constr_Flag/blob/main/ENSIGNS/French%20Ensign/3%20is%20to%202%20ratio/French%20Ensign%20(3%20is%20to%202%20ratio%2C%20second%20variant).pdn
+   Changes: Added this French canton "French Ensign (3 is to 2 ratio, second variant).pdn"
+https://github.com/anthemthings/Constr_Flag/blob/main/ENSIGNS/French%20Ensign/3%20is%20to%202%20ratio/French%20Ensign%20(3%20is%20to%202%20ratio%2C%20second%20variant).pdn
   
 
 NOTES:
