@@ -1,0 +1,48 @@
+CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+=====================================================
+
+The person who associated a work with this deed has dedicated the work to the
+public domain by waiving all of his or her rights to the work worldwide under
+copyright law, including all related and neighboring rights, to the extent
+allowed by law.
+
+You can copy, modify, distribute and perform the work, even for commercial
+purposes, all without asking permission. But it is appreciated, professional,
+and more educational if you give attribution. :)
+
+WORK DEDICATED TO PUBLIC DOMAIN:
+---------------------------------
+File:    French Laos (3 is to 2 ratio).png
+Creator: anthemthings
+Year:    2026
+
+DESCRIPTION OF WORK:
+---------------------
+This file is a derivative of the creator's own corrected 3:2 version
+(Luang Phrabang (3 is to 2 ratio).png).
+
+DERIVATIVE CHAIN:
+-----------------
+1. Flag of Laos (1893–1952) (Wikimedia Commons)
+   License: Public Domain (official government insignia)
+
+2. Luang Phrabang (3 is to 2 ratio).png 
+   Creator: anthemthings
+   License: CC0 (Public Domain)
+   Changes: Removed French canton from Flag of Laos (1893-1952)
+
+4. THIS FILE — French Laos (3 is to 2 ratio).png
+   Creator: anthemthings
+   License: CC0 (Public Domain)
+   Changes: Used this French canton "French Ensign (3 is to 2 ratio, second variant).pdn" 
+   https://github.com/anthemthings/Constr_Flag/blob/main/ENSIGNS/French%20Ensign/3%20is%20to%202%20ratio/French%20Ensign%20(3%20is%20to%202%20ratio%2C%20second%20variant).pdn
+  
+
+NOTES:
+------
+All source materials in the derivative chain are Public Domain.
+The creator waives all copyright and related rights to this work
+under CC0 1.0.
+
+For more information, see:
+https://creativecommons.org/publicdomain/zero/1.0/
